@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidUploadingLongFiles</string>
+    <string name="pick_image_text">PICK IMAGE</string>
+    <string name="permission_needed">El permiso es necesario.</string>
+    <string name="image_not_found">No se pudo obtener la image</string>
+    <string name="upload_in_process_text">Upload en proceso</string>
+    <string name="upload_complete_text">Upload completado</string>
+    <string name="upload_error_text">Upload Error</string>
+</resources>
